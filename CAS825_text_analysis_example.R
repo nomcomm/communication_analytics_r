@@ -2,15 +2,15 @@
 ######### This code is developed to explore and analyze COVID19 Twitter data (Text data) in CAS 825 class
 
 # install packages
-install.packages("RColorBrewer")
-install.packages("topicmodels")
-install.packages("twitteR")
-install.packages("tm")
-install.packages("wordcloud")
-install.packages("NLP")
-install.packages("ggplot2")
-install.packages("tidyverse")
-install.packages("tidytext")
+#install.packages("RColorBrewer")
+#install.packages("topicmodels")
+#install.packages("twitteR")
+#install.packages("tm")
+#install.packages("wordcloud")
+#install.packages("NLP")
+#install.packages("ggplot2")
+#install.packages("tidyverse")
+#install.packages("tidytext")
 
 # load packages
 library(RColorBrewer)
